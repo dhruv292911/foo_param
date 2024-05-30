@@ -1,0 +1,6 @@
+foo_parameterization.py
+setup.py
+foo_parameterization.egg-info/PKG-INFO
+foo_parameterization.egg-info/SOURCES.txt
+foo_parameterization.egg-info/dependency_links.txt
+foo_parameterization.egg-info/top_level.txt

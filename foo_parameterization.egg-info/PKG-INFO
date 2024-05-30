@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: foo-parameterization
+Version: 0.1
+Summary: A package for Foo et al. parameterization
+Home-page: https://github.com/yourusername/foo-parameterization
+Author: Your Name
+License: MIT
+Requires-Python: >=3.6
